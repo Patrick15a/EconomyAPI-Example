@@ -1,0 +1,6 @@
+name: EconomyAPI-Example
+version: 1.0
+author: Patrick15a <patrick15a@myfilehost.de>
+depend: [EconomyAPI]
+
+Main: de.patrick15a.Economy.example.Main
